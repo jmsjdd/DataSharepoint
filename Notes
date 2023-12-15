@@ -1,0 +1,7 @@
+Some reading: https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment
+
+#Need to create an environment with the following:
+pip install requests
+pip install shareplum
+
+Need to create variables/pathways here too
